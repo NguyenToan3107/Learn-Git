@@ -1,0 +1,8 @@
+# Library
+
+node_modules/**
+!node_modules/lib.js
+dist/**.js
+.prettierrc
+
+log*
