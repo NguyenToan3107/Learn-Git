@@ -44,3 +44,4 @@ git bash
 | Header1 | Header2 | Header3 |
 |---------|---------|---------|
 | Content | Content | Content |
+Handle B da edit
