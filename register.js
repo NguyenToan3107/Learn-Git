@@ -4,4 +4,5 @@ const handlerFunction = () => {
 
 const handleSutmit = () => {
     console.log("112234")
+    console.log("toan")
 }
